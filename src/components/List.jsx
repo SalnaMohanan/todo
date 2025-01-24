@@ -35,7 +35,9 @@ const List = () => {
         </tr>
       </thead>
       <tbody>
-      
+      {
+      all
+      }
      
         <tr>
 
