@@ -34,7 +34,7 @@ const List = () => {
           <th>action</th>
         </tr>
       </thead>
-      <tbody>y
+      <tbody>
       
      
         <tr>
